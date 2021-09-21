@@ -8,14 +8,14 @@
 </a>
 </p>
 
-<center>Hello there, I'm Jay-C</center>
-======
+<h1 align="center">Hello there, I'm Jay-C</h1>
+
 
 <h3 align="center">Computer Systems (Cyber Security) - Nottingham Trent University</h3>
 <h3 align="center"><a href="https://devsoc.co.uk">DevSoc</a> Committee Member</h3>
 <h3 align="center"><a href="https://j4y.dev">Website</a></h3>
 
----
+___
 
 [comment]: https://github.com/anuraghazra/github-readme-stats
 <p align="center">
