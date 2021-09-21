@@ -1,16 +1,20 @@
 <p align="center">
+<a href="https://j4y.dev">
 <img src="https://j4y.dev/botassets/j4y.gif"
      alt="<J4Y> - Logo"
      width="100px" 
      height="100px"
-     style="border-radius:50%"/>
+     style="border-radius:50%">
+</a>
 </p>
+
 <h2 align="center">Hello there, I'm Jay-C</h2>
 
 ___
 
 <h3 align="center">Computer Systems (Cyber Security) - Nottingham Trent University</h3>
-<h3 align="center">DevSoc Committee Member - [Website](https://devsoc.co.uk)</h3>
+<h3 align="center"><a href="https://devsoc.co.uk">DevSoc</a> Committee Member</h3>
+<h3 align="center"><a href="https://j4y.dev">Website</a></h3>
 
 ___
 
