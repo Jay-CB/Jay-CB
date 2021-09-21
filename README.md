@@ -4,11 +4,11 @@
      alt="<J4Y> - Logo"
      width="100px" 
      height="100px"
-     style="border-radius:50%">
+     style="border-radius:50px">
 </a>
 </p>
 
-<h2 align="center">Hello there, I'm Jay-C</h2>
+<h1 align="center" style="border-bottom: none">Hello there, I'm Jay-C</h1>
 
 ___
 
