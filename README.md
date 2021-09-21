@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<h1 align="center" border-bottom="none">Hello there, I'm Jay-C</h1>
+# Hello there, I'm Jay-C 
 
 ___
 
