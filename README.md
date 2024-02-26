@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<h1 align="center">Hello there, I'm Jay-C</h1>
+<h1 align="center">Hey there, I'm Jay-C</h1>
 
 
 <h3 align="center"><a href="https://jaycb.dev">Website</a></h3>
